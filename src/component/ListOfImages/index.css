@@ -1,0 +1,15 @@
+.imgItem {
+  list-style: none;
+}
+.imgBton {
+  border: none;
+  outline: none;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  cursor: pointer;
+}
+.thumbImg {
+  width: 10vw;
+  margin: 8px;
+}

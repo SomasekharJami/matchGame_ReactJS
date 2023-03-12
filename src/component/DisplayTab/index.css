@@ -1,0 +1,17 @@
+.tabBton {
+  margin: 2vw;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+  color: white;
+  cursor: pointer;
+}
+.activeTab {
+  border-bottom: 4px solid #fec653;
+  color: #fec653;
+}
+.tabText {
+  font-size: 6vh;
+  margin-top: 0;
+  margin-bottom: 0;
+}
